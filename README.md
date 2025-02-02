@@ -1,9 +1,9 @@
-#Password Strength Checker
+## Password Strength Checker
 
 A simple and visually appealing web-based tool to check the strength of passwords in real-time. Built with HTML, CSS, and JavaScript, this project provides instant feedback on password strength based on predefined criteria.
 
 
-#Features
+## Features
 
 Real-time Feedback: Instantly evaluates password strength as the user types.
 
@@ -16,7 +16,7 @@ Text Feedback: Shows the strength level (Weak, Moderate, Strong).
 Responsive Design: Works seamlessly on both desktop and mobile devices.
 
 
-#How It Works
+## How It Works
 
 The user enters a password in the input field.
 
@@ -35,8 +35,12 @@ JavaScript evaluates the password based on predefined rules:
 The strength meter and text feedback are updated dynamically based on the password's strength.
 
 
-#Acknowledgments
+## Acknowledgments
 
 Inspired by the need for better password security practices.
+
+## Live Demo
+
+Check out the live demo of the Password Strength Checker here: [Live Demo]https://anjal10911.github.io/Password-Strength-Checker/
 
 Built with ❤️ by Anjali!
